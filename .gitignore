@@ -1,0 +1,9 @@
+.env
+data/
+__pycache__/
+*.pyc
+
+.venv/
+venv/
+aasist_env/
+aasist_venv/
