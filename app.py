@@ -2,7 +2,7 @@ import streamlit as st
 import tempfile
 import os
 import requests
-import sounddevice as sd
+#import sounddevice as sd
 import soundfile as sf
 import numpy as np
 from dotenv import load_dotenv
